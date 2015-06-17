@@ -1,0 +1,50 @@
+h4{
+    color: azure;
+    font-family: 'Permanent Marker', cursive;
+    font-size: larger;
+    margin: 0rem 10rem 0rem 10rem;
+
+}
+p{
+    line-height: 105%;
+    letter-spacing: 1.1em;
+    color:aliceblue;
+    font-family: 'Permanent Marker', cursive;
+    background:linear-gradient(45deg,#5c9a9a 0%,white 50%);
+
+
+}
+h5{
+    background:url(evil_pumpkin_of_doom_no_light_by_nitwhit.jpg);
+    font-family: 'Permanent Marker', cursive;
+}
+p::first-line{
+    color: #0efa16;
+}
+p:first-letter{
+    color:antiquewhite;
+}
+
+body{
+    background: url(mountains_snow_houses_buildings_concept_art_artwork_winter_landscapes_banners_4106x1800_wallpaper_Wallpaper_4106x1800_www.wallpaperswa.com.jpg);
+    background-repeat: no-repeat;
+}
+head{
+    background:rgba(0, 18, 234, 0.34);
+}
+tr:nth-child(even){
+    font-family: 'Permanent Marker', cursive;
+    background:#5c9a9a
+}
+tr:nth-child(odd){
+    font-family: 'Permanent Marker', cursive;
+    background:rgba(0, 150, 234, 1)
+}
+th{
+    background: beige;
+}
+tr:nth-child(3) td:nth-child(1){
+    background: aquamarine;
+}
+table{background: cadetblue}
+sub{font-family: 'Permanent Marker', cursive;}
